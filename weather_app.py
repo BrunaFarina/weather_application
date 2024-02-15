@@ -1,6 +1,6 @@
 import requests, json
 
-api_key = "insert_your_API_key_here"
+api_key = "416941b8dfc144c9984ba1ea09520439"
 city_name = ""
 def get_weather(city_name, api_key):
     print("Welcome to Simple Weather App!")
